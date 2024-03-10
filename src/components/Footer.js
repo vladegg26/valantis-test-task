@@ -2,7 +2,7 @@ function Footer() {
 	return (
 		<>
 			<div className='footer'>
-				<a className='footer-link' href='https://github.com/vladegg26/valantis-assignment.git'>
+				<a className='footer-link' href='https://github.com/vladegg26/valantis-test-task.git'>
 					Репозиторий проекта
 				</a>
 				<a className='footer-link' href='https://github.com/vladegg26'>
